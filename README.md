@@ -31,8 +31,8 @@ Display the transformed images using Matplotlib for visualization. Convert the B
 ### Step5:
 Save or display the final transformed images for analysis and use plt.show() to display them inline in Jupyter or compatible environments.
 
-## DEVELOPED BY : Karan A
-## REG NO : 212223230099
+## DEVELOPED BY : Ashwath M
+## REG NO : 212223230023
 ## Program:
 
 ```python
